@@ -1,5 +1,5 @@
 {
-  "homepage": "michaeleclavea.github.io/portfolio/",
+  "homepage": "https://github.com/MichaelEclavea/Portfolio#readme",
   "name": "portfolio",
   "version": "1.0.0",
   "description": "Dimension by HTML5 UP\r html5up.net | @ajlkn\r Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)",
@@ -15,6 +15,5 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/MichaelEclavea/Portfolio/issues"
-  },
-  "homepage": "https://github.com/MichaelEclavea/Portfolio#readme"
+  }
 }
