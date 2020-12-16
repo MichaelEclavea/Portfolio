@@ -32,7 +32,15 @@ footer, header, hgroup, menu, nav, section {
 body {
 	line-height: 1;
 }
-
+p{
+	font-size: 1.2em;
+}
+.links{
+	color: white;
+}
+.links:hover{
+	color: rgb(105, 213, 249);
+}
 ol, ul {
 	list-style: none;
 }
